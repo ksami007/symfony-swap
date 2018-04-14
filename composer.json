@@ -1,5 +1,5 @@
 {
-    "name": "florianv/swap-bundle",
+    "name": "ksami007/swap-bundle",
     "type": "symfony-bundle",
     "description": "Integrates the Swap library with Symfony",
     "keywords": ["money", "currency", "conversion", "rate", "exchange", "symfony", "bundle"],
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": "^5.6|^7.0",
-        "symfony/framework-bundle": "~3.0",
+        "symfony/framework-bundle": "3.*",
         "florianv/swap": "~3.0"
     },
     "require-dev": {
