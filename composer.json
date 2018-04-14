@@ -30,10 +30,5 @@
         "psr-4": {
             "Florianv\\SwapBundle\\": ""
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0-dev"
-        }
     }
 }
